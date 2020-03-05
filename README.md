@@ -3,12 +3,12 @@ sistemasprogramables-mobile-exo-force-of-the-korean-army created by GitHub Class
 
 
 # Sensores de acidez: IsFET
-| Integrantes                 |   |
+| Integrantes                 | No.Control  |
 |-----------------------------|---|
 |                             |   |   
 |                             |   |  
 |                             |   | 
-| Vasquez Macias Cristo Josue |   |   
+| Vasquez Macias Cristo Josue |  15210743 |   
 
 ##INTRODUCCION
 | Aplicaciones                                       | Caracteristicas                                                         |
