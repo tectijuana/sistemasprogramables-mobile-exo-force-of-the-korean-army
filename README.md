@@ -10,7 +10,7 @@ sistemasprogramables-mobile-exo-force-of-the-korean-army created by GitHub Class
 |                             |   | 
 | Vasquez Macias Cristo Josue |  15210743 |
 
-| Castro Garcia Alan JAssyr |  16210513 |
+
 
  
 
