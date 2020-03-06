@@ -5,7 +5,7 @@ sistemasprogramables-mobile-exo-force-of-the-korean-army created by GitHub Class
 # Sensores de acidez: IsFET
 | Integrantes                 | No.Control  |
 |-----------------------------|---|
-|    castro garcia alan jassyr                         | 16210513  |   
+|    Castro Garcia Alan Jassyr            | 16210513  |   
 |                             |   |  
 |                             |   | 
 | Vasquez Macias Cristo Josue |  15210743 |
